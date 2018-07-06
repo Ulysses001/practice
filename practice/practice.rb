@@ -1,4 +1,6 @@
-# amt_paid =50.00
+# puts "outputs first and last name"
+# puts "Ulysses Hall"
+# # amt_paid =50.00
 # groceries =35.5
 # tax = (35.5) * 0.07
 # cost = groceries + tax
